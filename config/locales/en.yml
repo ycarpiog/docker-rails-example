@@ -29,3 +29,11 @@
 
 en:
   hello: "Hello!"
+  users:
+    index: 
+       title: "Usuarios del Sistema"
+       new: "Nuevo Usuario"
+    edit: 
+       title: "Editar Usuario"
+       show: "Mostar Usuario"
+       back: "Regresar"
